@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f0679bd-3e23-4f0b-b9e1-616833b5dc65" name="Changes" comment="[update] remove dev comments &amp; prints">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game/run.go" beforeDir="false" afterPath="$PROJECT_DIR$/Game/run.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FiOsTIL68ENlHVz4nw35k4QsTz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/flo/hangman-classic/Extra&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Extra" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Game" />
+      <recent name="$PROJECT_DIR$/Test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Extra" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build hangman" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hangman-classic" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="words.txt" />
+      <kind value="PACKAGE" />
+      <package value="hangman" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build hangman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add] \n in false word guessing output" />
+    <MESSAGE value="[add] empty guess managing" />
+    <MESSAGE value="[add] try to print" />
+    <MESSAGE value="[add] print - need to fix _" />
+    <MESSAGE value="[add] print ascii - need to fix _" />
+    <MESSAGE value="[update] asciiart.go with code" />
+    <MESSAGE value="[update] run.go with ascii art" />
+    <MESSAGE value="[update] ascii letters" />
+    <MESSAGE value="[update] asciiLettersCopy.txt" />
+    <MESSAGE value="[update] comment print standard word" />
+    <MESSAGE value="[update] add \n" />
+    <MESSAGE value="[fix] inital word int - print all letters" />
+    <MESSAGE value="[fix] error when len(word)&lt;4" />
+    <MESSAGE value="[fix] len3 error" />
+    <MESSAGE value="[update] asciiLetters.txt" />
+    <MESSAGE value="[add] asciiart train" />
+    <MESSAGE value="[update] asciiart 3D" />
+    <MESSAGE value="[update] workspace.xml" />
+    <MESSAGE value="[update] hanhman ascii at" />
+    <MESSAGE value="[add] Save.txt" />
+    <MESSAGE value="[add] save code - Start &amp; stop" />
+    <MESSAGE value="[add] args error managements" />
+    <MESSAGE value="[add] comments" />
+    <MESSAGE value="[update] asciitain" />
+    <MESSAGE value="[update] remove dev comments &amp; prints" />
+    <option name="LAST_COMMIT_MESSAGE" value="[update] remove dev comments &amp; prints" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
