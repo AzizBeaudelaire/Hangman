@@ -2,7 +2,7 @@
 
 ## Description
 
-Réalisé en collabarotaion avec Alborra Florian
+Réalisé en collaboration avec Alborra Florian
 
 Hangman en Go est un jeu du pendu implémenté en langage de programmation Go (Golang). Le jeu consiste à deviner un mot caché en proposant des lettres une par une. Le joueur a un nombre limité de tentatives pour trouver le mot complet. Si le joueur épuise toutes ses vies sans avoir deviné le mot, il perd la partie. Sinon, s'il parvient à deviner le mot avant d'épuiser toutes ses vies, il gagne la partie.
 
